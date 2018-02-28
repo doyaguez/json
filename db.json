@@ -1,0 +1,40 @@
+{
+  "viajes": [
+    {
+      "pais": "España",
+      "id": 1
+    },
+    {
+      "pais": "Francia",
+      "id": 2
+    },
+    {
+      "pais": "Alemania",
+      "id": 3
+    },
+    {
+      "pais":"Italia" ,
+      "id": 4
+    },
+    {
+      "pais": "Portugal",
+      "id": 5
+    },
+    {
+      "pais": "Holanda",
+      "id": 6
+    },
+    {
+      "pais": "Dinamarca",
+      "id": 7
+    },
+    {
+      "pais": "Estonia",
+      "id": 8
+    },
+    {
+      "pais": "Estados unidos",
+      "id": 8
+    }
+  ]
+}
